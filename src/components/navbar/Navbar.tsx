@@ -1,4 +1,4 @@
-import "../styles/navbar.css";
+import "./navbar.css";
 import {useHistory} from "react-router-dom";
 import { useState } from "react";
 
