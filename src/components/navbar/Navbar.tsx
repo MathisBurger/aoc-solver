@@ -25,7 +25,7 @@ const Navbar = () => {
                 Home
             </div>
             <div className={`link-box ${getClass('/2021')}`} onClick={() => redirect('/2021')}>
-                Home
+                2021
             </div>
         </div>
     );
