@@ -10,7 +10,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route path="/2021" component={Index2021} />
-        <Route path="/2021/day1" component={Year2021Day1} />
+        <Route path="/2021-day1" component={Year2021Day1} />
       </Switch>
     </Router>
   );
